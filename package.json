@@ -1,0 +1,11 @@
+{
+  "name": "ppl",
+  "version": "1.0.0",
+  "description": "Application for the Peer Project Learning method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Mendieta & Adriano Pinargote",
+  "license": "ISC"
+}
